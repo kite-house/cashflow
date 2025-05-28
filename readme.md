@@ -2,6 +2,10 @@
 
 ### Установка зависимостей
 
+> python -m venv venv
+
+> venv\Scripts\activate
+
 > pip install -r requirements.txt
 
 ### Настройка базы данных
